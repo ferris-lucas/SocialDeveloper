@@ -60,6 +60,7 @@ studentID - username <br/>
 2211063 - Hiroki Ota<br/>
 2211221 - Naoya Nishiura</br>
 2011145 - Sugahara Takuya<br/>
+2311329 - GOURINE Sanaa Amina<br/>
 2111025<br/>
 2011017 - Tattiya Sakulniwat<br/>
 2011418 - Purit Phanudom<br/>
@@ -320,6 +321,7 @@ studentID - username <br/>
 2111416 - Fan Youmei<br/>
 2211087 <br />
 2111206 - Kouki Hayafune
+2211415 - Ma Shanpeng<br/>
 2211087<br />
 2111432
 2211210 - Nakamura Tsubasa<br/>
@@ -337,3 +339,4 @@ studentID - username <br/>
 2211032 - Ren Imamura <br/>
 2211081 - Yushi Okunishi <br/>
 2111440 - Xuzhe<br/>
+2311097 - Yuya Kawabata <br/>
